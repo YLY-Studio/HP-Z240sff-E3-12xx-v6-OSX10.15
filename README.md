@@ -1,2 +1,15 @@
 # HP-Z240sff-E3-v6-OSX
-HP Z240sff E3-1280v6+amd r5 430 install OSX
+HP Z240sff Chassis 
+Chipset Intel C236
+CPU:Intel Xeon E3-1280 v6
+GPU:AMD R5 430   without iGPU
+Memory:8G / 24G all tryed. 
+HDD: 7200rpm 320G
+
+
+install OSX
+
+ISSUE:
+eGPU not driver to CI/QE
+sometime the system will too slow
+HP bios will report RTC error 0005,  already add rtc fixed. still need tr
