@@ -4,7 +4,7 @@ HP Z240sff Chassis
 
 Chipset Intel C236
 
-CPU:Intel Xeon E3-1280 v6
+CPU:Intel Xeon E3-1280 v6  ( Kaby Lake)
 
 GPU:AMD R5 430   without iGPU
 
@@ -21,8 +21,9 @@ Intel wireless with No Airdrop.
 Bootloader : Opencore 0.64
 
 
-
+Status: 
 For now , files worked for install OSX 10.15.7
+
 
 ISSUE:
 
