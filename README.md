@@ -1,4 +1,5 @@
 # HP-Z240sff-E3-v6-OSX
+
 HP Z240sff Chassis 
 
 Chipset Intel C236
@@ -16,6 +17,9 @@ NIC: onboard intel 219i worked
 Wireless: add PICE-m.2 intel 3xxx wireless card. enable to scan SSID and BT with usb connect to onboard Media 3 pin.
 
 Intel wireless with No Airdrop.
+
+Bootloader : Opencore 0.64
+
 
 
 For now , files worked for install OSX 10.15.7
