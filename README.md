@@ -11,8 +11,14 @@ Memory:8G / 24G all tryed.
 
 HDD: 7200rpm 320G
 
+NIC: onboard intel 219i worked
 
-install OSX
+Wireless: add PICE-m.2 intel 3xxx wireless card. enable to scan SSID and BT with usb connect to onboard Media 3 pin.
+
+Intel wireless with No Airdrop.
+
+
+For now , files worked for install OSX 10.15.7
 
 ISSUE:
 
