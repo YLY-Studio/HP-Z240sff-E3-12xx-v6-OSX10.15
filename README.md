@@ -26,9 +26,9 @@ For now , files worked for install OSX 10.15.7
 
 ISSUE:
 
-eGPU not driver to CI/QE
+eGPU not driver ,so don't have graphics acceleration (sluggish animations, no QE/CI)
 
-sometime the system will too slow
+sometime the system will too slow after open a app
 
 Everytime reboot , HP bios will report some RTC and time error 005,  already add rtc fixed.
 
