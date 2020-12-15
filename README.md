@@ -23,6 +23,7 @@ Bootloader : Opencore 0.64
 
 Status: 
 For now , files worked for install OSX 10.15.7
+Onboard PCI Audio Controller working fine with aid parameter, could select internal speaker or output port.
 
 
 ISSUE:
