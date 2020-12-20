@@ -1,12 +1,12 @@
-# HP-Z240sff-E3-v6-OSX
+# HP-Z240sff-E3-v6-OSX 
 
-HP Z240sff Chassis 
+HP Z240sff Chassis hackintosh
 
 Chipset Intel C236
 
 CPU:Intel Xeon E3-1280 v6  ( Kaby Lake)
 
-GPU:AMD R5 430   without iGPU
+GPU:AMD R5 430 without iGPU. , I try other RX550(Lexa,2017 Bios) Device ID 699F, GT720(NO CI/QE)
 
 Memory:8G / 24G all tryed. 
 
